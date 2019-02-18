@@ -7,3 +7,5 @@ The user destroys blocks in the tower by tapping on them, collapsing the blocks 
 The player must use perspective to keep an eye on all four walls of the tower, either by moving their device or spinning the AR Marker card to rotate the tower. Points are earned for each block that is destroyed as a result of a matching 3!
 
 NOTE: This repository contains all game-related code that I wrote for Rubik's Rumble. The game is based upon Abertay University's Games Education Framework as well as the Sony PS Vita libraries. For licensing purposes, these frameworks can obviously not be included in this repository. As such, the project in this repository will not compile for PS Vita or any other platform, and is intended for demonstrative purposes of my coding style only. There is a dummy header file which defines empty prototypes of external framework classes and functions. This is to keep intellisense happy, and keep the project easy to navigate. 
+
+To see the game running, check out this YouTube demo: https://youtu.be/72x_O6D3AwU 
